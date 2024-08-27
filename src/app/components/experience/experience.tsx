@@ -14,10 +14,7 @@ export function Experience() {
         <div>
           <p>FSW Barber</p>
           <button>
-            <a
-              target="_blank"
-              href="https://fswbarberbarbearia-joao-francas-projects.vercel.app"
-            >
+            <a target="_blank" href="https://fsw-barbearia.vercel.app">
               check the project
             </a>
           </button>
